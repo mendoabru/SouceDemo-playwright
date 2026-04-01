@@ -1,0 +1,17 @@
+[
+  {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "desc": "Usuario normal"
+  },
+  {
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "desc": "Usuario con problemas de imagen"
+  },
+  {
+    "username": "performance_glitch_user",
+    "password": "secret_sauce",
+    "desc": "Usuario con retraso de carga"
+  }
+]
